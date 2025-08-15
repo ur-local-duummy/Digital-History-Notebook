@@ -1,1 +1,1 @@
-Alan turing made huge contributions to AI. He also made a device that is known as a turing machine. Is work provided the foundation modern complexity theory The theory answers the question “Among those problems that can be solved by a computer, which ones can be solved efficiently?”
+Alan Turing made huge contributions to AI. He also made a device that is known as a turing machine. Is work provided the foundation modern complexity theory The theory answers the question “Among those problems that can be solved by a computer, which ones can be solved efficiently?”
