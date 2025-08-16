@@ -114,16 +114,23 @@ When you have completed all assignments and answered all of the "Report Status" 
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
+
 ### Timeline: The Rise of the Internet.###
+
  -1969 – Creation of ARPANET: The U.S. Department of Defense launches ARPANET, the first network to use packet switching, connecting four universities.
  
  <img width="1088" height="945" alt="image" src="https://github.com/user-attachments/assets/9feeadc0-197b-49ef-a9d0-49b6c6d11174" />
  
  -1972 – First Public Demonstration of ARPANET: ARPANET is demonstrated at the International Computer Communication Conference, showcasing its potential.
+ 
  -1974 – Invention of TCP/IP: Vint Cerf and Bob Kahn propose the Transmission Control Protocol (TCP), later evolving into TCP/IP, the foundation of internet communication.
+ 
  -1983 – Adoption of TCP/IP: ARPANET officially adopts TCP/IP as its standard protocol, marking the birth of the modern internet.
+ 
  <img width="500" height="283" alt="image" src="https://github.com/user-attachments/assets/287e24b3-d9a9-470d-b733-672dc702ddea" />
 
  -1989 – Proposal of the World Wide Web: Tim Berners-Lee proposes a system for sharing information using hypertext, leading to the development of the web.
+ 
  -1991 – Launch of the World Wide Web to the Public: The first website goes live, and the World Wide Web becomes accessible to the public.
+ 
  -1993 – Release of Mosaic Web Browser: Mosaic, the first widely-used graphical web browser, is released, spurring internet growth and public adoption.
