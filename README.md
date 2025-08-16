@@ -134,3 +134,7 @@ Be sure to answer the questions above as well.
  -1991 – Launch of the World Wide Web to the Public: The first website goes live, and the World Wide Web becomes accessible to the public.
  
  -1993 – Release of Mosaic Web Browser: Mosaic, the first widely-used graphical web browser, is released, spurring internet growth and public adoption.
+
+
+### Final thoughts on project
+- It was alright I didnt hate it but i didnt enjoy it
