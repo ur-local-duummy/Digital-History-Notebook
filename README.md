@@ -115,7 +115,7 @@ A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
 
-### Timeline: The Rise of the Internet.###
+### Timeline: The Rise of the Internet.
 
  -1969 – Creation of ARPANET: The U.S. Department of Defense launches ARPANET, the first network to use packet switching, connecting four universities.
  
